@@ -1,0 +1,11 @@
+Pour mettre en place le site, rien de compliqué :)
+
+Il suffit de double cliquer sur : PirateVape_TOOL.html
+
+Le site s'ouvre et est ensuite prêt à l'emploi 
+
+ATTENTION : si le cache du navigateur est supprimé, les recettes et les stocks le seront aussi, pense à les exporter de temps en temps :)
+
+Bonne Vape 
+
+PirateVape
